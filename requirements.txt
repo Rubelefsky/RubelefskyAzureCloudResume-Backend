@@ -1,0 +1,8 @@
+# Azure Functions
+azure-functions
+
+# Azure Table Storage SDK
+azure-data-tables
+
+# For testing
+pytest
